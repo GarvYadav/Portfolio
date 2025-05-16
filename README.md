@@ -1,1 +1,8 @@
 # Portfolio
+<br>
+<p>For my Personal Portfolio Website, I used HTML as the foundation to structure all the content in a clean, organized, and meaningful way. The goal was to create a simple, responsive site that showcases my skills, background, and projects in a user-friendly format.
+I started by building a navigation bar using HTML5 semantic elements like <header> and <nav>, making it easy for visitors to move between sections such as Home, About, Projects, and Contact. Each part of the website was sectioned using clear <section> tags with IDs, which helped with smooth internal linking and scrolling.
+To keep the content readable and accessible, I made use of headings (<h1>, <h2>, etc.) and paragraphs (<p>) to create a logical content flow. I also used lists for navigation items and grouped content where needed, which kept the layout consistent and easy to follow.
+I paid attention to HTML5 best practices, using semantic tags to improve structure and accessibility. This makes the site more usable not just for typical visitors, but also for screen readers and search engines. I also included meta tags in the <head> to make the site responsive on all screen sizes and compatible across different browsers.
+
+Using HTML in this project wasn’t just about writing code—it was about building a strong, accessible, and scalable foundation for the entire website. It gave me full control over the layout and allowed me to focus on both user experience and technical quality.</p>
