@@ -51,18 +51,18 @@ section {
   margin: auto;
 }
 
-#hero {
+#home {
   background: #007bff;
   color: white;
   text-align: center;
   padding: 100px 20px;
 }
 
-#hero h2 {
+#home h2 {
   font-size: 36px;
 }
 
-#hero p {
+#home p {
   font-size: 20px;
   margin-top: 10px;
 }
